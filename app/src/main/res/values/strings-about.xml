@@ -5,8 +5,8 @@
   <string name="about_dialog_body"><![CDATA[
     <b>Tridio</b> is a fully featured, open source, Material themed music player that works across all
     form factors including phones, Wear, Auto, Assistant and Cast devices.<br/><br/>
-    Designed and developed by <b>Naman Dwivedi</b>. Check out my
-    <a href="https://namand.in">Website</a> and <a href="https://github.com/riipandi/tridio">GitHub</a>!
+    Originally designed by <b>Naman Dwivedi</b>, forked and developed by <b>Aris Ripandi</b>.<br/><br/>
+    Check out my <a href="https://altaris.dev/">Website</a> and <a href="https://github.com/riipandi/tridio">GitHub</a>!
    ]]></string>
   <string name="about_dialog_dismiss">Dismiss</string>
 

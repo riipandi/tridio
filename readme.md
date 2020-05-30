@@ -3,7 +3,7 @@
 # Tridio
 Fully featured Material theme music player that works all form factors and uses latest tools
 
-<a href='https://play.google.com/store/apps/details?id=dev.altaris.tridio&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+<a href='https://play.google.com/store/apps/details?id=dev.altaris.tridio'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
 Alternately, Download from Github [releases](https://github.com/riipandi/tridio/releases)
 * * *
@@ -76,7 +76,7 @@ Tridio works with Google Assistant. Common voice commands that work with assista
 
 ## License
 
->(c) 2019 Naman Dwivedi
+>(c) 2020 Aris Ripandi
 
 >This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
